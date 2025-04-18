@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\bin\Debug\net8.0\Text Rpg.exe
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\bin\Debug\net8.0\Text Rpg.deps.json
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\bin\Debug\net8.0\Text Rpg.runtimeconfig.json
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\bin\Debug\net8.0\Text Rpg.dll
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\bin\Debug\net8.0\Text Rpg.pdb
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\obj\Debug\net8.0\Text Rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\obj\Debug\net8.0\Text Rpg.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\obj\Debug\net8.0\Text Rpg.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\obj\Debug\net8.0\Text Rpg.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\obj\Debug\net8.0\Text Rpg.dll
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\obj\Debug\net8.0\refint\Text Rpg.dll
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\obj\Debug\net8.0\Text Rpg.pdb
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\obj\Debug\net8.0\Text Rpg.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Projects\Text Rpg\Text Rpg\obj\Debug\net8.0\ref\Text Rpg.dll
